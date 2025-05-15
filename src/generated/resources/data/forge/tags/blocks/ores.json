@@ -1,0 +1,13 @@
+{
+  "values": [
+    "templar_addons:mana_crystal_ore",
+    "templar_addons:deepslate_mana_crystal_ore",
+    "templar_addons:silver_ore",
+    "templar_addons:deepslate_silver_ore",
+    "templar_addons:electric_amalgam_ore",
+    "templar_addons:deepslate_electric_amalgam_ore",
+    "templar_addons:electrum_ore",
+    "templar_addons:nether_mana_ore",
+    "templar_addons:endmana_ore"
+  ]
+}

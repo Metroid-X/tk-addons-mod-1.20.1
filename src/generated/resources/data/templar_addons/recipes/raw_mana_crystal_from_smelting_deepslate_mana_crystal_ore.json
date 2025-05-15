@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "raw_mana",
+  "ingredient": {
+    "item": "templar_addons:deepslate_mana_crystal_ore"
+  },
+  "result": "templar_addons:raw_mana_crystal"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "templar_addons:mana_infusion",
+  "category": "misc",
+  "ingredients": {
+    "main": "templar_addons:electrum_ingot",
+    "elements": {
+      "north": {
+        "item": "templar_addons:raw_mana_crystal"
+      }
+    },
+    "components": {
+
+    }
+  },
+  "m1Cost": 4,
+  "m2Cost": 4,
+  "m3Cost": 0,
+  "result": "templar_addons:infused_electrum_ingot"
+}

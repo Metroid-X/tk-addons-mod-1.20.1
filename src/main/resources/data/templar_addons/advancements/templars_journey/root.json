@@ -1,0 +1,29 @@
+{
+  "display": {
+  "announce_to_chat": false,
+  "background": "minecraft:textures/block/stone_bricks.png",
+  "description": {
+    "translate": "achievement.templar_addons.Root.desc"
+  },
+  "frame": "task",
+  "hidden": false,
+  "icon": {
+    "item": "templar_addons:templars_guide_book"
+  },
+  "show_toast": false,
+  "title": {
+    "translate": "achievement.templar_addons.Root"
+  }
+},
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "tick"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

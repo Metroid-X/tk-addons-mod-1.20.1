@@ -1,0 +1,14 @@
+{
+  "values": [
+    "templar_addons:raw_electrum_block",
+    "templar_addons:electrum_block",
+    "templar_addons:black_mana_crystal_block",
+    "templar_addons:silver_ore",
+    "templar_addons:deepslate_silver_ore",
+    "templar_addons:raw_silver_block",
+    "templar_addons:silver_block",
+    "templar_addons:mana_crystal_ore",
+    "templar_addons:deepslate_mana_crystal_ore",
+    "templar_addons:blasted_smooth_stone"
+  ]
+}

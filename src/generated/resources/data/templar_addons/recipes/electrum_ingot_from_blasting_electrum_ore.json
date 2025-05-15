@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.625,
+  "group": "electrum_ingot",
+  "ingredient": {
+    "item": "templar_addons:electrum_ore"
+  },
+  "result": "templar_addons:electrum_ingot"
+}

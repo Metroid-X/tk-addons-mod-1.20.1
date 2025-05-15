@@ -1,0 +1,32 @@
+{
+  "item.templar_addons.mana_shards": "Mana Shards",
+  "item.templar_addons.raw_mana_crystal": "Raw Mana Crystal",
+  "item.templar_addons.cut_mana_crystal": "Cut Mana Crystal",
+  "item.templar_addons.flawless_mana_crystal": "Flawless Mana Crystal",
+  "item.templar_addons.raw_silver": "Raw Silver",
+  "item.templar_addons.raw_electric_amalgam": "Raw Electric Amalgam",
+  "item.templar_addons.electrum_mix": "Crushed Electrum Mix",
+  "item.templar_addons.raw_electrum": "Raw Electrum",
+
+  "item.templar_addons.silver_ingot": "Silver Ingot",
+  "item.templar_addons.electrum_ingot": "Electrum Ingot",
+
+  "block.templar_addons.mana_shard_block": "Mana Shard Block",
+  "block.templar_addons.mana_crystal_block": "Mana Crystal Block",
+  "block.templar_addons.raw_silver_block": "Raw Silver Block",
+  "block.templar_addons.raw_electrum_block": "Raw Electrum Block",
+  "block.templar_addons.mana_crystal_ore": "Mana Crystal Ore",
+  "block.templar_addons.deepslate_mana_crystal_ore": "Deepslate Mana Crystal Ore",
+  "block.templar_addons.silver_ore": "Silver Ore",
+  "block.templar_addons.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.templar_addons.electric_amalgam_ore": "Electric Amalgam Ore",
+  "block.templar_addons.electrum_ore": "Electrum Ore",
+  "block.templar_addons.blasted_smooth_stone": "Blasted Smooth Stone",
+
+
+
+  "creativetab.templar_items_tab": "Templar Items",
+  "creativetab.templar_blocks_tab": "Templar Blocks",
+  "creativetab.templar_tools_tab": "Templar Equipment",
+  "creativetab.templar_magic_tab": "Templar Magic Items"
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "templar_addons:item/templar_journal_3d_open"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "templar_addons:item/templar_journal_2d"
+    },
+    "ground": {
+      "parent": "templar_addons:item/templar_journal_3d_closed"
+    },
+    "fixed": {
+      "parent": "templar_addons:item/templar_journal_3d_open"
+    }
+  }
+}

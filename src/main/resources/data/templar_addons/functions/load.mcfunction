@@ -1,0 +1,1 @@
+tellraw @a {"text":"Templar Addons' Functions are loaded", "color":"aqua"}

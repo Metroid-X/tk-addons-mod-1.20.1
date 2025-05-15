@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "templar_addons:block/mana_shard_block"
+    }
+  }
+}

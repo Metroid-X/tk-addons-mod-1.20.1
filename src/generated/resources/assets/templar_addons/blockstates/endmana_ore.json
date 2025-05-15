@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "templar_addons:block/endmana_ore"
+    }
+  }
+}

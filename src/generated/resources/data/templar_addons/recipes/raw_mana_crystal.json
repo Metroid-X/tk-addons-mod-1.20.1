@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "templar_addons:concentrated_mana_bucket"
+    },
+    "s": {
+      "item": "templar_addons:mana_shards"
+    }
+  },
+  "pattern": [
+    " s ",
+    "sBs",
+    " s "
+  ],
+  "result": {
+    "count": 2,
+    "item": "templar_addons:raw_mana_crystal"
+  },
+  "show_notification": true
+}

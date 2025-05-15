@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "templar_addons:item/grind_surface_blasted"
+  }
+}

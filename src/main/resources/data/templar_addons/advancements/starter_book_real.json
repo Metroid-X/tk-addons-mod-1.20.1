@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "used_book": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "templar_addons:curious_templar_journal"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "templar_addons:starter_book"
+    ]
+  },
+  "sends_telemetry_event": true
+}

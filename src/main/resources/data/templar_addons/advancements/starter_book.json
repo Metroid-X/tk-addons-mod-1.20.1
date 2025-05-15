@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "loot": [
+      "templar_addons:starter_book_useitem"
+    ]
+  },
+  "sends_telemetry_event": true
+}

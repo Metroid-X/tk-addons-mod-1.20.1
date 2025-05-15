@@ -1,0 +1,1 @@
+loot give @p loot templar_addons:starter_book

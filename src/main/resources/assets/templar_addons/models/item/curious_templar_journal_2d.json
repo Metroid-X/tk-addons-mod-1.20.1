@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "templar_addons:item/curious_templar_journal"
+  }
+}

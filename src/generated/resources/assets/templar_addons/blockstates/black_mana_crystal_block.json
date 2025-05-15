@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "templar_addons:block/black_mana_crystal_block"
+    }
+  }
+}

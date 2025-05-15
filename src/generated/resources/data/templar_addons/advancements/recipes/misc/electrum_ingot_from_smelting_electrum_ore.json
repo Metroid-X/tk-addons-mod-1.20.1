@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_electrum_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "templar_addons:electrum_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "templar_addons:electrum_ingot_from_smelting_electrum_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_electrum_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "templar_addons:electrum_ingot_from_smelting_electrum_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}
